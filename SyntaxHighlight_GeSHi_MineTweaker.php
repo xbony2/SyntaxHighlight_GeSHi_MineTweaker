@@ -14,3 +14,5 @@ $wgExtensionCredits['parserhooks'][] = array(
 		'url' => 'http://help.gamepedia.com/Extension:SyntaxHighlight_GeSHi_MineTweaker',
 		'license-name' => 'MIT License'
 );
+
+# TODO: Make some code to automatically copy 'SyntaxHighlight_GeSHi_MineTweaker/geshi/geshi/zs.php' to 'SyntaxHighlight_GeSHi/geshi/gesi/zs.php'
