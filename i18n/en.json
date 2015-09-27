@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eric Schneider (xbony2)"
+		]
+	},
+	"syntaxhighlight-geshi-minetweaker-desc": "Adds MineTweaker/ZenScript support to the GeSHi Syntax Highlighting Extension."
+}
