@@ -72,7 +72,8 @@ $language_data = array (
 						1 => '',
 						2 => '',
 						3 => ''
-				)
+				),
+				'REGEXPS' => array()
 		),
 		'OOLANG' => true,
 		'OBJECT_SPLITTER' => '.'
